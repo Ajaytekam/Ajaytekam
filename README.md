@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
+[<img align="left" alt="ajaytekam.github.io" width="36px" src="https://1.bp.blogspot.com/-ROJfPrX9fXY/X3HAdqOzsWI/AAAAAAAAC6s/96H1KtMH9VAMiwtF1d3lVd6yJRs6xQ_TwCLcBGAsYHQ/s512/personal-website-profile-page-social-site-web-profolio-icon-personal-web-page-png-512_512.png" />][Portfolio]
+[<img align="left" alt="YouTube" width="37px" src="http://2.bp.blogspot.com/-4r0KmvgiW_w/ViXomS6JWQI/AAAAAAAAAP4/2cSgj6nbrT4/s1600/utube.png" />][youtube]
+[<img align="left" alt="Twitter" src="https://2.bp.blogspot.com/-mT_w5CCaqjs/ViXpx1iGqpI/AAAAAAAAAQE/KxTk1GD0ZAc/s1600/Twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="35px" src="https://1.bp.blogspot.com/-bFuIIlYS1bA/X3G-A4p-2AI/AAAAAAAAC6g/A7bbhH_DFxEvzSYBdWDEAZ85netkeR6xACLcBGAsYHQ/s935/clipart1967122.png" />][linkedin]
+[<img align="left" alt="sec-art.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
 
 [website]: http://sec-art.net
 [twitter]: https://twitter.com/0xajay
