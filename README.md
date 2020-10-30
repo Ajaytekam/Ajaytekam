@@ -3,12 +3,10 @@
 [![Website](https://img.shields.io/website?label=sec-art.net&style=for-the-badge&url=http%3A%2F%2Fsec-art.net)](http://sec-art.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xajay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%20xajay&screen_name=0xajay)
 
-- 🔭 Web-Application & Network Penetration Tester  
 - 🐛 Bug Hunter | Security Research | CTF Write-ups 
+- 🔭 Web-Application & Network Penetration Testing
 - 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
-- 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](http://sec-art.net).
-- 🌱 Currently I'm trying to learn everything about Cyber Security 🤣
-
+- 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](http://sec-art.net)
 
 ### Connect with me:
 
