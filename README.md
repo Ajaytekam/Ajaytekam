@@ -5,7 +5,7 @@
 
 - 🔭 Web-Application & Network Penetration Tester  
 - 🐛 Bug Hunter | Security Research | CTF Write-ups 
-- 💻 Languages and tools : Python, Bash, JavaScript, PHP, VIM
+- 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
 - 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](http://sec-art.net).
 - 🌱 Currently I'm trying to learn everything about Cyber Security 🤣
 
