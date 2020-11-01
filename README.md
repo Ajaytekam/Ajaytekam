@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xajay?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%20xajay&screen_name=0xajay)
 [![Github](https://img.shields.io/github/followers/Ajaytekam?label=Follow&style=social)](https://github.com/Ajaytekam)
 [![Linkedin](https://img.shields.io/badge/-Ajay%20Tekam-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaytekam/)](https://www.linkedin.com/in/ajaytekam/)
-[![Youtube](https://img.shields.io/badge/-Sec%20Art-white?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/user/secarticles)](https://www.youtube.com/user/secarticles)
+[![Youtube](https://img.shields.io/badge/-Sec%20Art-blue?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/user/secarticles)](https://www.youtube.com/user/secarticles)
 
 
 - 🐛 Bug Hunter | Security Research | CTF Write-ups 
