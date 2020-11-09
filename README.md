@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
 
-- 🐛 Bug Hunter | Security Research | CTF Write-ups 
-- 🔭 Web-Application & Network Penetration Testing
+- 🐛 Bug Hunter | Web-Application & Network Penetration Testing
+- 🔭 Security Research | CTF Write-ups 
 - 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
 - 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](http://sec-art.net)
 
