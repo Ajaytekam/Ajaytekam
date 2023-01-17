@@ -5,6 +5,14 @@
 - 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
 - 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](https://sec-art.net)
 
+<!-- CICD Projects -->
+# CICD Projects  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=emartapp-Docker-Deploy&theme=dark)](https://github.com/Ajaytekam/emartapp-Docker-Deploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=docker-containerization-project&theme=dark)](https://github.com/Ajaytekam/docker-containerization-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=devops_jenkins&theme=dark)](https://github.com/Ajaytekam/devops_jenkins)
+
 ### Connect with me:
 
 [![Website](https://img.shields.io/website?label=sec-art.net&style=flat-square&url=http%3A%2F%2Fsec-art.net)](https://sec-art.net)
