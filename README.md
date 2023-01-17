@@ -5,7 +5,6 @@
 - 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
 - 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](https://sec-art.net)
 
-
 ### Connect with me:
 
 [![Website](https://img.shields.io/website?label=sec-art.net&style=flat-square&url=http%3A%2F%2Fsec-art.net)](https://sec-art.net)
