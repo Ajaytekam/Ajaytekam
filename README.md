@@ -1,26 +1,10 @@
-
-<!-- CICD Projects -->
-# DevOps CICD Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=devops_jenkins&theme=dark)](https://github.com/Ajaytekam/devops_jenkins)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=emartapp-Docker-Deploy&theme=dark)](https://github.com/Ajaytekam/emartapp-Docker-Deploy)
-<!-- provisioning Projects with docker and vagrant-->
-# Provisioning Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=docker-containerization-project&theme=dark)](https://github.com/Ajaytekam/docker-containerization-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
-<!-- Coding Projects-->
-# Coding Projects Python and Go
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TelegramBot&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/telegramSend)
-
-
-<!--
 ### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
 
 - 🐛 Bug Hunter | Web-Application & Network Penetration Testing
 - 🔭 Security Research | CTF Write-ups 
 - 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
 - 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](https://sec-art.net)
--->  
+
 
 ### Connect with me:
 
