@@ -1,9 +1,3 @@
-### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
-
-- 🐛 Bug Hunter | Web-Application & Network Penetration Testing
-- 🔭 Security Research | CTF Write-ups 
-- 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
-- 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](https://sec-art.net)
 
 <!-- CICD Projects -->
 # CICD Projects  
@@ -12,6 +6,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=devops_jenkins&theme=dark)](https://github.com/Ajaytekam/devops_jenkins)
+
+<!--
+### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
+
+- 🐛 Bug Hunter | Web-Application & Network Penetration Testing
+- 🔭 Security Research | CTF Write-ups 
+- 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
+- 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](https://sec-art.net)
+-->  
 
 ### Connect with me:
 
