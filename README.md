@@ -1,11 +1,11 @@
 <!-- CICD Projects -->
 # CICD Projects  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=CICD_Jenkins&theme=dark)](https://github.com/Ajaytekam/CICD_Jenkins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=AWSVprofileApp&theme=dark)](https://github.com/Ajaytekam/AWSVprofileApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=emartapp-Docker-Deploy&theme=dark)](https://github.com/Ajaytekam/emartapp-Docker-Deploy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=docker-containerization-project&theme=dark)](https://github.com/Ajaytekam/docker-containerization-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=devops_jenkins&theme=dark)](https://github.com/Ajaytekam/devops_jenkins)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=AWSVprofileApp&theme=dark)]([https://github.com/Ajaytekam/devops_jenkins](https://github.com/Ajaytekam/AWSVprofileApp))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)  
 
 ### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
 
