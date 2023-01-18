@@ -1,6 +1,6 @@
 <!-- CICD Projects -->
 # DevOps Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=CICD_Jenkins&theme=dark)](https://github.com/Ajaytekam/CICD_Jenkins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Jenkins-CICD&theme=dark)](https://github.com/Ajaytekam/Jenkins-CICD.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=AWSVprofileApp&theme=dark)](https://github.com/Ajaytekam/AWSVprofileApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=emartapp-Docker-Deploy&theme=dark)](https://github.com/Ajaytekam/emartapp-Docker-Deploy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=docker-containerization-project&theme=dark)](https://github.com/Ajaytekam/docker-containerization-project)
