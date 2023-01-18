@@ -5,7 +5,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=docker-containerization-project&theme=dark)](https://github.com/Ajaytekam/docker-containerization-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=AWSVprofileApp&theme=dark)](https://github.com/Ajaytekam/AWSVprofileApp)
 
 ### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
 
