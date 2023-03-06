@@ -6,8 +6,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=AWSVprofileApp&theme=dark)](https://github.com/Ajaytekam/AWSVprofileApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=emartapp-Docker-Deploy&theme=dark)](https://github.com/Ajaytekam/emartapp-Docker-Deploy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=docker-containerization-project&theme=dark)](https://github.com/Ajaytekam/docker-containerization-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=S3_Static_Site&theme=dark)](https://github.com/Ajaytekam/s3_static_site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=terraform_AppDeploy&theme=dark)](https://github.com/Ajaytekam/terraform_AppDeploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
 
 
