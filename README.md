@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=S3_Static_Site&theme=dark)](https://github.com/Ajaytekam/s3_static_site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=terraform_AppDeploy&theme=dark)](https://github.com/Ajaytekam/terraform_AppDeploy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=minikube-VagrantBox&theme=dark)](https://github.com/Ajaytekam/minikube-VagrantBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=Vagrant-Web-Stack&theme=dark)](https://github.com/Ajaytekam/Vagrant-Web-Stack)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajaytekam&repo=DevOpsCoding&theme=dark)](https://github.com/Ajaytekam/DevOpsCoding)
 
 
 ### Hi there, I'm [Ajay](https://ajaytekam.github.io) 👋
