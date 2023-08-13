@@ -1,11 +1,6 @@
-### Hi there, I'm [Ajay](https://ajaytekam.com) 👋
-<!-- 
-- 🐛 Bug Hunter | Web-Application & Network Penetration Testing
-- 🔭 Security Research | CTF Write-ups 
-- 💻 Languages and tools : Python, Bash, JavaScript, PHP, Vim
-- 🦉 Write blogposts related to Cyber security, CTF Write-ups and other Info-sec topics at [sec-art.net](https://sec-art.net)
+<h1 align="center">Hi there👋, I'm <a href="https://ajaytekam.com/" target="_">Ajay</a>✨</h1>
 
---> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+⚙️;Automation+🚀;Continuous+Delivery+🛒;Continuous+Deployment+🛠;Build+Pipelines+⚙️;Jenkins+Pipelines+⚙️;Version+Control+🛠;Shell+Scripting+🧑‍💻;Python+Automation+🧑‍💻;AWS+Cloud+☁︎;Containers+and+Microservices+🖥;SDLC+Models+🧩;Terraform+🛠️;Ansible+🛠️;Monitoring+💻;Web+Development+🧑‍💻;Go+Development+🧑‍💻)](https://git.io/typing-svg)
 
 ### Connect with me:
 
