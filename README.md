@@ -32,6 +32,9 @@ My name is [__Ajay__](https://www.linkedin.com/in/ajaykt1/) and i am working as 
   	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" alt="Shell Scripting" width="40" height="40"/> </a> 
   	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 	<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GoLang" height="25"/> </a> 
+	  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="40" />
+  </a>
 </p>
 
 ### WebDev
