@@ -1,6 +1,6 @@
-<h1 align="center">Hi there👋, I'm <a href="https://ajaytekam.com/" target="_">Ajay</a>✨</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+⚙️;Automation+🚀;Continuous+Delivery+🛒;Continuous+Deployment+🛠;Build+Pipelines+⚙️;Jenkins+Pipelines+⚙️;Version+Control+🛠;Shell+Scripting+🧑‍💻;Python+Automation+🧑‍💻;AWS+Cloud+☁︎;Containers+and+Microservices+🖥;SDLC+Models+🧩;Terraform+🛠️;Ansible+🛠️;Monitoring+💻;Web+Development+🧑‍💻;Go+Development+🧑‍💻)](https://git.io/typing-svg)
+### Hi there👋    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+⚙️;Automation+🚀;Continuous+Delivery+🛒;Continuous+Deployment+🛠;Build+Pipelines+⚙️;Jenkins+Pipelines+⚙️;Version+Control+🛠;Shell+Scripting+🧑‍💻;Python+Automation+🧑‍💻;AWS+Cloud+☁︎;Containers+and+Microservices+🖥;SDLC+Models+🧩;Terraform+🛠️;Ansible+🛠️;Monitoring+💻;Web+Development+🧑‍💻;Go+Development+🧑‍💻)](https://git.io/typing-svg)   
+My name is [__Ajay__](https://www.linkedin.com/in/ajaykt1/) and i am working as a DevOps Engineer with experience in AWS Cloud services, Jenkins CICD Pipelines, Containers and Microservices, Orchestration (Kubernetes), Terraform, Monitoring tools Prometheus and Grafana, CD tools like ArgoCD, Version Control Git and Github, Github Actions, Python, Shell Scripting.  
 
 ### Connect with me:
 
