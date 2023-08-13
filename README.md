@@ -18,7 +18,7 @@ My name is [__Ajay__](https://www.linkedin.com/in/ajaykt1/) and i am working as 
 [linkedin]: https://www.linkedin.com/in/ajaykt1/
 [Portfolio]: https://ajaytekam.com
 
-### Languages and tools 
+### DevOps Tools 
 <p float="left">  
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2023/07/docker-code-cloud-aws.png.webp" alt="AWS" height="40"/> </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes" width="40" height="40"/> </a> 
@@ -30,17 +30,23 @@ My name is [__Ajay__](https://www.linkedin.com/in/ajaykt1/) and i am working as 
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="40" height="40"/> </a> 
   	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" alt="Shell Scripting" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GoLang" height="25"/> </a> 
+</p>
+
+### WebDev
+<p float="left">  
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-svg-vector.svg" alt="Flask" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" height="25"/> </a> 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="GoLang" height="25"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="MongoDB" height="25"/> </a>   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/> </a> 
+	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Django" width="40" height="40"/> </a> 
+	<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-svg-vector.svg" alt="Flask" width="40" height="40"/> </a> 
+	<a href"https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a> 
+	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" height="25"/> </a> 
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" alt="MongoDB" height="40"/> </a>   
+  	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="mysql" height="40"/> </a> 
+	<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" height="40"/> </a> 	
 </p>
 
 <!-- CICD Projects -->
